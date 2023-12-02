@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import axios from "axios";
 import { toast } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
+import "./styles.css"; 
 //npm install react-toastify
 //npm install axios
 export const Login = ({ onLogin }) => {

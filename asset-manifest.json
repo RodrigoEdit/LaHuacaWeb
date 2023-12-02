@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/LaHuacaWeb/static/css/main.66390954.css",
-    "main.js": "/LaHuacaWeb/static/js/main.03adb78d.js",
+    "main.js": "/LaHuacaWeb/static/js/main.be40ce46.js",
     "static/media/img-hotel.jpg": "/LaHuacaWeb/static/media/img-hotel.07b4d142478cebee1cbf.jpg",
     "index.html": "/LaHuacaWeb/index.html",
     "main.66390954.css.map": "/LaHuacaWeb/static/css/main.66390954.css.map",
-    "main.03adb78d.js.map": "/LaHuacaWeb/static/js/main.03adb78d.js.map"
+    "main.be40ce46.js.map": "/LaHuacaWeb/static/js/main.be40ce46.js.map"
   },
   "entrypoints": [
     "static/css/main.66390954.css",
-    "static/js/main.03adb78d.js"
+    "static/js/main.be40ce46.js"
   ]
 }

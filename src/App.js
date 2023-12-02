@@ -27,7 +27,7 @@ function App() {
   const handleLogout = () => {
     setLoggedIn(false);
     localStorage.removeItem("loggedIn"); // Elimina el estado de inicio de sesión de localStorage
-    navigate("https://rodrigoedit.github.io/LaHuacaWeb/"); // Redirigir al usuario al login después de cerrar sesión
+    navigate("/"); // Redirigir al usuario al login después de cerrar sesión
   };
 
   // Efecto para comprobar el inicio de sesión en cada carga de página
